@@ -1,0 +1,87 @@
+h1, h2, p {
+    text-align: center;
+}
+h1, h2 {
+    font-family: Impact, serif;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h2 {
+    font-size: 30px;
+}
+body {
+    background-image: url(https://www.anamariareceitas.com.br/wp-content/uploads/2023/03/21-de-marco-e-o-dia-do-pao-frances.-Vamos-de-receitinha.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    padding: 20px;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+footer {
+    font-size: 14px;
+}
+a {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:hover {
+    color: brown;
+}
+a:active {
+    color: brown;
+}
+.linha-traseira {
+    margin-top: 25px;
+}
+.estabelecido {
+    font-style: italic;
+}
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.opções, .sobremesas {
+    text-align: left;
+    width: 75%;
+}
+.preço {
+    text-align: right;
+    width: 25%;
+}
+.direção {
+    margin-bottom: 5px;
+}
+.paozinho {
+    width: 50px;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+}
+.bolinho {
+    width: 45px;
+    height:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+}
